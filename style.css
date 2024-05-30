@@ -1,19 +1,19 @@
 .first {
     position: absolute;
     left: 0vw;
-    top : 20vh;
+    top : 10vh;
 }
 
 .second {
     position: absolute;
     left : 32vw;
-    top : 20vh;
+    top : 10vh;
 }
 
 .third {
     position: absolute;
     left: 64vw;
-    top : 20vh;
+    top : 10vh;
 }
 
 .box {
@@ -40,12 +40,15 @@
 .box_4 {
     top : 50vh;
 }
+.box_5 {
+    top : 65vh;
+}
 .white {
     position: absolute;
     left : 42.5vw;
-    top: 8vh;
+    top: 5vh;
     width: 15vw;
-    height: 8vh;
+    height: 5vh;
     background-color: green;
 }
 .btn {
