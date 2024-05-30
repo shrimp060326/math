@@ -40,3 +40,20 @@
 .box_4 {
     top : 50vh;
 }
+.white {
+    position: absolute;
+    left : 42.5vw;
+    top: 8vh;
+    width: 15vw;
+    height: 8vh;
+    background-color: green;
+}
+.btn {
+    position: absolute;
+    width: 15vw;
+    height: 8vh;
+    background-color: blue;
+    top: 88vh;
+    left: 42.5vw;
+    color: white;
+}
