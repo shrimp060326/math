@@ -1,0 +1,42 @@
+.first {
+    position: absolute;
+    left: 0vw;
+    top : 20vh;
+}
+
+.second {
+    position: absolute;
+    left : 32vw;
+    top : 20vh;
+}
+
+.third {
+    position: absolute;
+    left: 64vw;
+    top : 20vh;
+}
+
+.box {
+    position : absolute;
+    width: 10vw;
+    height: 10vh;
+    background-color: gray;
+}
+.box_even {
+    left : 20vw;
+}
+.box_odd {
+    left : 5vw;
+}
+.box_1 {
+    top: 5vh;
+}
+.box_2{
+    top : 20vh;
+}
+.box_3 {
+    top : 35vh;
+}
+.box_4 {
+    top : 50vh;
+}
